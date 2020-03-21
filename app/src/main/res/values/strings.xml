@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FrutiMaths</string>
+    <string name="nombre">¿Como te llamas?</string>
+    <string name="button">JUGAR</string>
+
+    <string name="jugador">Jugador:</string>
+    <string name="score">Puntaje: </string>
+    <string name="vidas">Vidas:</string>
+
+    <string name="resultado">Resultado...</string>
+
+    <string name="check">Comprobar</string>
+
+    <string name="credit">Desarrollado por Pablo Rodriguez</string>
+
+
+</resources>
